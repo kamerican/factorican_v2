@@ -1,0 +1,9 @@
+{
+	"name": "factoricanindustry",
+	"version": "0.0.1",
+	"title": "Factorican Industry",
+	"author": "Factorican",
+	"homepage": "https://forums.factorio.com/",
+	"description": "Adds a new production chain for making circuits",
+	"factorio_version": "0.17"
+}
